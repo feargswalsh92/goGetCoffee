@@ -1,4 +1,4 @@
-/goGetCoffeeFeargalDev/iPhone7.png
+/iPhone 7.png
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
